@@ -1,5 +1,5 @@
 # CatanTracker
-a settlers of catan game tracker, written for fun over a weekend :)
+A settlers of catan game tracker, written for fun over a weekend :)
 
 Usage: simply run `python3 catantracker.py` :)
 
