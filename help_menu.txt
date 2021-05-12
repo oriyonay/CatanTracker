@@ -1,0 +1,26 @@
+----- UPDATE ACTIONS -----
+roll 5 (performs a dice roll and distributes resources)
+ori builds road
+ori builds settlement on x y NW
+ori builds city on x y SE
+ori buys development card
+ori gets longest road (largest army is automatically tracked)
+ori moves robber to x y
+ori plays knight
+ori plays vp
+ori plays year of plenty
+ori robs natalie 1 wheat
+ori trades with natalie 1 wood 1 sheep for 2 brick
+ori trades 4 brick for 1 wheat (4 for 1)
+gameover
+
+----- ADMIN ACTIONS -----
+(actions to use as a backdoor, just in case something unexpected happens)
+cmd (enter any python command to manually modify the game)
+give ori 1 wheat (or 'give ori 1 wheat 1 sheep ...')
+take ori 1 wheat (or 'take ori 1 wheat 1 sheep ...')
+error? (print the last exception)
+
+----- QUERY ACTIONS -----
+resources (displays everyone's resources. alternatively: 'info')
+total bricks (total number of bricks held by all players)

@@ -1,0 +1,37 @@
+(this is a simple test 'script' used for quick debugging)
+
+2
+ori
+jenn
+brick 9
+wood 11
+sheep 6
+wheat 4
+wood 3
+wheat 2
+sheep 5
+sheep 11
+ore 11
+desert
+ore 10
+sheep 9
+brick 10
+sheep 5
+brick 12
+wheat 4
+wood 6
+wood 3
+ore 8
+
+ori builds settlement on 3 4 NW
+roll 10
+roll 10
+ori builds city on 3 4 NW
+jenn plays vp
+give jenn 10 wheat 2 wood
+ori plays knight
+1 1
+ori plays knight
+1 2
+ori plays knight
+1 1
